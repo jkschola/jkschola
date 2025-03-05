@@ -3,4 +3,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JKSCHOLA)](https://git.io/streak-stats)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jkschola)](https://git.io/streak-stats)
