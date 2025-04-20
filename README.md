@@ -3,7 +3,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jkschola)](https://git.io/streak-stats)
 
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jkschola)
 
 
