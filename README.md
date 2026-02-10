@@ -1,4 +1,4 @@
-**Let's Do It ~ AE**
+**Let's Do It ~ Analytics Engineer**
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jkschola" alt="GitHub Streak" /></a>
 
