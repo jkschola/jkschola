@@ -1,5 +1,6 @@
 **Let's Do This ~ Analytics Engineer 📈**
 
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jkschola" alt="GitHub Streak" /></a>
 
 
@@ -9,3 +10,4 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jkschola)
 
 
+**AE journey**
