@@ -10,4 +10,4 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jkschola)
 
 
-**AE journey - 28th Febr**
+**AE journey - 1st March**
